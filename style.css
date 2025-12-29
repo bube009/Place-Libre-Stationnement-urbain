@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #f5f5f5;
+}
+
+header {
+  background: #000;
+  color: #fff;
+  padding: 12px;
+  text-align: center;
+}
+
+#map {
+  height: calc(100vh - 140px);
+}
+
+footer {
+  text-align: center;
+  padding: 8px;
+  font-size: 12px;
+  background: #eee;
+}
