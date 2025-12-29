@@ -1,0 +1,6 @@
+{
+  "appId": "com.bube009.placelibre",
+  "appName": "Place Libre",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
